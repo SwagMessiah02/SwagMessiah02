@@ -8,5 +8,4 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius Mendes&theme=radical" alt="Commit Streak"/>
 </p>
