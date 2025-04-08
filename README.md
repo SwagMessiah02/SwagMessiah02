@@ -25,7 +25,10 @@ Eu sou estudante de ADS pelo IFPI - Campus Pedro II, possuo experiência em dese
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=tokyonight)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=tokyonight)
 
 #
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie)]
+
 
