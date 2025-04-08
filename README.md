@@ -1,6 +1,8 @@
 # Vinicius Mendes
 
-<h2 align="center">Um mero estudante de programação</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Um+mero+estudante+de+programação" />
+</p>
 
 Eu sou estudante de ADS pelo IFPI - Campus Pedro II, possuo experiência em desenvolvimento para backend e sistemas embarcados. Tenho proeficiência em linguagem de programação C, e experiência moderada em linguagem Java e Javascript. 
 
