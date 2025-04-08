@@ -29,6 +29,6 @@ Eu sou estudante de ADS pelo IFPI - Campus Pedro II, possuo experiência em dese
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie)
 
 
