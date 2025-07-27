@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Um+mero+estudante+de+programação" />
 </p>
 
-Eu sou estudante de ADS pelo IFPI - Campus Pedro II, possuo experiência em desenvolvimento para backend e sistemas embarcados. Tenho proeficiência em linguagem de programação C, e experiência moderada em linguagens Java e Javascript. 
+Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas embarcados. Sou proeficiente em linguagem Java e C, com experiência moderada em Javascript. 
 
 #
 
