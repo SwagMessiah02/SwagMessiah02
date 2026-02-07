@@ -8,7 +8,7 @@ Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas 
 
 #
 
-### 🛠 **Working Stack**
+### 🛠 **Work Stack**
 <p align="center">
   <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
