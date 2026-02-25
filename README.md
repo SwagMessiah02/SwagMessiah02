@@ -19,7 +19,6 @@ Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas 
   </a>
 </p>
 
-#
 
 #
 
