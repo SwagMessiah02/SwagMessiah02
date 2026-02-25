@@ -8,7 +8,7 @@
 Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas embarcados. Sou proeficiente em linguagem Java e C, com experiência moderada em Javascript. 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="vmdm314@gmail.com">
