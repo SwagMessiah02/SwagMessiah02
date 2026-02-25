@@ -7,7 +7,20 @@
 Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas embarcados. Sou proeficiente em linguagem Java e C, com experiência moderada em Javascript. 
 
 #
-[![Texto alternativo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/)
+
+### **Social Media**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" style="padding-right:10px;/>
+  </a>
+  <a href="vmdm314@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" style="padding-right:10px;/>
+  </a>
+</p>
+
+#
+
 #
 
 ### 🛠 **Work Stack**
@@ -22,17 +35,10 @@ Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas 
 
 ### 📊 **GitHub Stats**
 
-<p align="center"> 
-  <img alt="status do github" src="https://github-readme-stats.vercel.app/api?username=SwagMessiah02&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwagMessiah02&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 #
 
-### 📊 **Language Stats**
-
-<p align="center"> 
-  <img alt="status das linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwagMessiah02&count=8&theme=tokyonight&layout=pie"/>
-</p>
-
-#
 
