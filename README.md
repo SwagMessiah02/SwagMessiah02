@@ -11,7 +11,7 @@ Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas 
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="vmdm314@gmail.com">
+  <a href="https://jpst.it/4TYTs">
     <img src="https://img.shields.io/static/v1?message=email&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
   </a>
 </div>
