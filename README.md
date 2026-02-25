@@ -12,10 +12,10 @@ Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" style="padding-right:10px;/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" style=padding-right:10px;/>
   </a>
   <a href="vmdm314@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" style="padding-right:10px;/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" style=padding-right:10px;/>
   </a>
 </p>
 
