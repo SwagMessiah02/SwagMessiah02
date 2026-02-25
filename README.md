@@ -2,7 +2,7 @@
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&text=Um%20mero%20estudante%20de%20programa%C3%A7%C3%A3o&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&text=Um%20mero%20estudante%20de%20programa%C3%A7%C3%A3o&fontSize=30&fontColor=00000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 Estudo ADS pelo IFPI. Tenho Exeperiência em desenvolvimento backend e sistemas embarcados. Sou proeficiente em linguagem Java e C, com experiência moderada em Javascript. 
