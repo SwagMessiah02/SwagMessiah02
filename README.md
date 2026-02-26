@@ -5,7 +5,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=91&section=header&reversal=true&text=Um%20mero%20estudante%20de%20programa%C3%A7%C3%A3o&fontSize=30&fontColor=00000&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
-<h3 align="center"> Estudante de ADS pelo IFPI. Programador fullstack com Java, Spring e Angular. </h3>
+<h3 align="center"> Estudante de ADS pelo IFPI. Programador fullstack Java, Spring e Angular. </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-mendes-2340032bb/" target="_blank" rel="noopener noreferrer">
