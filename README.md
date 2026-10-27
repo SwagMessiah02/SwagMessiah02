@@ -28,14 +28,3 @@
   <img alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
 
-#
-
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwagMessiah02&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-#
-
-
