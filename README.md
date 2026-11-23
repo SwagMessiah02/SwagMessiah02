@@ -18,7 +18,7 @@
 
 #
 
-### 🛠 **Work Stack**
+### 🛠 **Languages and Tools**
 <p align="center">
   <img alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
   <img alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
